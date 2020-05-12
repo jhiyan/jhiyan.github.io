@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 君惜颜的博客</title>
+    <link>https://jhiyan.github.io/categories/</link>
+    <description>Recent content in Categories on 君惜颜的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhiyan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日志</title>
+      <link>https://jhiyan.github.io/categories/%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhiyan.github.io/categories/%E6%97%A5%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>模板</title>
+      <link>https://jhiyan.github.io/categories/%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhiyan.github.io/categories/%E6%A8%A1%E6%9D%BF/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

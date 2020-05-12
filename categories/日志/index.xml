@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日志 on 君惜颜的博客</title>
+    <link>https://jhiyan.github.io/categories/%E6%97%A5%E5%BF%97/</link>
+    <description>Recent content in 日志 on 君惜颜的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhiyan.github.io/categories/%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于这个博客</title>
+      <link>https://jhiyan.github.io/blog/goisforlovers/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhiyan.github.io/blog/goisforlovers/</guid>
+      <description>博客 ——碎碎念 总是想找个地方能够记录生活，QQ是同学老师们，微信是老板，同事，朋友们，其实好多东西并不想写给别人看但是总是要有一个地方来安置心情亦或者是是矫情。
+今天是20-5-10，昨天成功的搭建起了这个本地博客，通过hugo与git下载的hugo的模板，11个小时终于是成功了。鬼知道我经历了什么！嗯~尤其是这个模板第一眼就喜欢上了，我本就是个极简主义者这个模板又很干净却是几经波折才成功的下载使用起来，现在也是边写边摸索功能，之后看看能不能把学习笔记都搬到博客上面来，待我基本功能摸索完就挂到github上也算是自己第一个个人网页，想想就开心。
+第一篇博客 那就这样然后继续探索新功能；</description>
+    </item>
+    
+  </channel>
+</rss>

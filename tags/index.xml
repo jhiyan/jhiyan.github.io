@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 君惜颜的博客</title>
+    <link>https://jhiyan.github.io/tags/</link>
+    <description>Recent content in Tags on 君惜颜的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhiyan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用说明</title>
+      <link>https://jhiyan.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhiyan.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>碎碎念</title>
+      <link>https://jhiyan.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhiyan.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
