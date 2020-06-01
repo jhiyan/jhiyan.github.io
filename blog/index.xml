@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on 君惜颜的博客</title>
-    <link>https://jhiyan.github.io/blog/</link>
+    <link>https://Jhiyan.gitee.io/blog/</link>
     <description>Recent content in Blog on 君惜颜的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jhiyan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Jhiyan.gitee.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于这个博客</title>
-      <link>https://jhiyan.github.io/blog/goisforlovers/</link>
+      <link>https://Jhiyan.gitee.io/blog/goisforlovers/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jhiyan.github.io/blog/goisforlovers/</guid>
+      <guid>https://Jhiyan.gitee.io/blog/goisforlovers/</guid>
       <description>博客 ——碎碎念 总是想找个地方能够记录生活，QQ是同学老师们，微信是老板，同事，朋友们，其实好多东西并不想写给别人看但是总是要有一个地方来安置心情亦或者是是矫情。
 今天是20-5-10，昨天成功的搭建起了这个本地博客，通过hugo与git下载的hugo的模板，11个小时终于是成功了。鬼知道我经历了什么！嗯~尤其是这个模板第一眼就喜欢上了，我本就是个极简主义者这个模板又很干净却是几经波折才成功的下载使用起来，现在也是边写边摸索功能，之后看看能不能把学习笔记都搬到博客上面来，待我基本功能摸索完就挂到github上也算是自己第一个个人网页，想想就开心。
 第一篇博客 那就这样然后继续探索新功能；</description>
@@ -24,28 +24,28 @@
     
     <item>
       <title>模板教程</title>
-      <link>https://jhiyan.github.io/blog/creating-a-new-theme/</link>
+      <link>https://Jhiyan.gitee.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jhiyan.github.io/blog/creating-a-new-theme/</guid>
+      <guid>https://Jhiyan.gitee.io/blog/creating-a-new-theme/</guid>
       <description>一个#号字体大小 两个#号字体大小 三个#号字体大小 四个#号字体大小 生成静态网站时，hugo会忽略所有通过 draft: true 标记为草稿的文件。必须改为 draft: false 才会编译进 HTML 文件。</description>
     </item>
     
     <item>
       <title>这个图好看就先留着吧</title>
-      <link>https://jhiyan.github.io/blog/%E5%AE%9E%E9%AA%8C/</link>
+      <link>https://Jhiyan.gitee.io/blog/%E5%AE%9E%E9%AA%8C/</link>
       <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://jhiyan.github.io/blog/%E5%AE%9E%E9%AA%8C/</guid>
+      <guid>https://Jhiyan.gitee.io/blog/%E5%AE%9E%E9%AA%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>这个图好看就先留着吧</title>
-      <link>https://jhiyan.github.io/blog/hugoisforlovers/</link>
+      <link>https://Jhiyan.gitee.io/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://jhiyan.github.io/blog/hugoisforlovers/</guid>
+      <guid>https://Jhiyan.gitee.io/blog/hugoisforlovers/</guid>
       <description></description>
     </item>
     

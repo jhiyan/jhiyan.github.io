@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>使用说明 on 君惜颜的博客</title>
-    <link>https://jhiyan.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</link>
+    <link>https://Jhiyan.gitee.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/</link>
     <description>Recent content in 使用说明 on 君惜颜的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jhiyan.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Jhiyan.gitee.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>模板教程</title>
-      <link>https://jhiyan.github.io/blog/creating-a-new-theme/</link>
+      <link>https://Jhiyan.gitee.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jhiyan.github.io/blog/creating-a-new-theme/</guid>
+      <guid>https://Jhiyan.gitee.io/blog/creating-a-new-theme/</guid>
       <description>一个#号字体大小 两个#号字体大小 三个#号字体大小 四个#号字体大小 生成静态网站时，hugo会忽略所有通过 draft: true 标记为草稿的文件。必须改为 draft: false 才会编译进 HTML 文件。</description>
     </item>
     
